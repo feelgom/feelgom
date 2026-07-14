@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/feelgom/"><img src="https://img.shields.io/badge/LinkedIn-Yoonsung%20Ji-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://feelgom.github.io/blog/"><img src="https://img.shields.io/badge/Tech%20Blog-Feelgom-36BCF7?style=flat&logo=rss&logoColor=white" alt="Tech blog" /></a>
   <img src="https://komarev.com/ghpvc/?username=feelgom&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -23,28 +24,33 @@ of LLM and agent products—from problem definition and architecture to beta lau
 
 ## Selected projects
 
-> The repositories are private during final review. Public links will be added here before they are pinned.
-
-### Ask-My-Data MCP
+### [Ask-My-Data MCP](https://github.com/feelgom/ask-my-data-mcp)
 
 Routes natural-language questions across RAG and Text2SQL with LangGraph, exposes the pipeline
 through MCP, and guards generated SQL with a read-only validator.
 
 `Python` · `MCP` · `LangGraph` · `RAG` · `Text2SQL` · `SQLite`
 
-### PointCloud MCP
+### [PointCloud MCP](https://github.com/feelgom/pointcloud-mcp)
 
 Exposes Point Cloud inspection, RANSAC plane detection and ICP alignment as MCP tools—connecting
 hands-on 3D geometry work with the LLM tool ecosystem.
 
 `Python` · `MCP` · `Open3D` · `NumPy` · `ICP`
 
-### Career MCP
+### [Career MCP](https://github.com/feelgom/career-mcp)
 
 A queryable, evidence-grounded career profile with structured project search, quantified impact
 retrieval and optional LLM synthesis.
 
 `Python` · `MCP` · `Anthropic Claude` · `Information Retrieval`
+
+## Writing
+
+- [디지털 트윈에게 말을 걸다 — MCP 서버를 0→1로](https://feelgom.github.io/blog/blog/mcp-server-from-zero-to-one/)
+- [하나의 프롬프트로는 안 됐다 — LangGraph Multi-Agent 라우팅](https://feelgom.github.io/blog/blog/langgraph-multi-agent-routing/)
+- [70%짜리 검색으로 90%짜리 경험을 만드는 법](https://feelgom.github.io/blog/blog/rag-evaluation-user-experience/)
+- [기술 블로그 전체 보기](https://feelgom.github.io/blog/)
 
 ## Impact in numbers
 
