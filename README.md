@@ -23,21 +23,23 @@ of LLM and agent products—from problem definition and architecture to beta lau
 
 ## Selected projects
 
-### [Ask-My-Data MCP](https://github.com/feelgom/ask-my-data-mcp)
+> The repositories are private during final review. Public links will be added here before they are pinned.
+
+### Ask-My-Data MCP
 
 Routes natural-language questions across RAG and Text2SQL with LangGraph, exposes the pipeline
 through MCP, and guards generated SQL with a read-only validator.
 
 `Python` · `MCP` · `LangGraph` · `RAG` · `Text2SQL` · `SQLite`
 
-### [PointCloud MCP](https://github.com/feelgom/pointcloud-mcp)
+### PointCloud MCP
 
 Exposes Point Cloud inspection, RANSAC plane detection and ICP alignment as MCP tools—connecting
 hands-on 3D geometry work with the LLM tool ecosystem.
 
 `Python` · `MCP` · `Open3D` · `NumPy` · `ICP`
 
-### [Career MCP](https://github.com/feelgom/career-mcp)
+### Career MCP
 
 A queryable, evidence-grounded career profile with structured project search, quantified impact
 retrieval and optional LLM synthesis.
