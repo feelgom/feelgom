@@ -19,7 +19,7 @@ that gets them shipped—from hands-on 3D computer vision and ML engineering to 
 
 - 🔭 Building **LLM agents, RAG, Text2SQL and MCP servers**
 - 🧊 Working with **3D Computer Vision, Point Cloud, MVS and ICP**
-- ✍️ Writing practical engineering notes on my [tech blog](https://feelgom.github.io/blog/)
+- ✍️ Writing practical engineering notes on my [tech blog](https://feelgom.github.io/blog/?utm_source=github&utm_medium=referral&utm_campaign=profile)
 
 ---
 
